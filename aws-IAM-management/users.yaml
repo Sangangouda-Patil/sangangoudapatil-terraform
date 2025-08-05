@@ -1,0 +1,11 @@
+users:
+  - username: Sangangouda
+    role:
+      - AmazonEC2FullAccess
+  - username: Deepak
+    role:
+      - AmazonS3ReadOnlyAccess
+  - username: Omkar
+    role:
+      - AmazonS3ReadOnlyAccess
+      - AmazonEC2FullAccess
